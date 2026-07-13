@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="444147fe-66c8-446f-8b52-8c0b02f419a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DigitalBookHub/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitalBookHub/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalBookHub/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitalBookHub/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalBookHub/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitalBookHub/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalBookHub/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitalBookHub/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnitExercise1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExercise1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnitExercise3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExercise3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnitExercise4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExercise4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryManagement/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryManagement/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryManagement/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../ParameterizedLoggingDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParameterizedLoggingDemo/target/classes/com/cognizant/ParameterizedLogging.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ParameterizedLoggingDemo/target/classes/com/cognizant/ParameterizedLogging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logging-demo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../logging-demo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logging-demo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../logging-demo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logging-demo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../logging-demo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mockito-demo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../mockito-demo/.classpath" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kayasameera"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kayasameera/cognizanthandson.git",
+    "accountId": "0e3fe976-f3e5-4a89-bc0e-2b361450d6ea"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GPKRc1hDJDXE3emfxuVOyJhVVu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SAMEERA/OneDrive/Desktop/cognizanthandson/logging-demo2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMEERA\OneDrive\Desktop\cognizanthandson\logging-demo2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444147fe-66c8-446f-8b52-8c0b02f419a8" name="Changes" comment="" />
+      <created>1783867756884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783867756884</updated>
+      <workItem from="1783867758315" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

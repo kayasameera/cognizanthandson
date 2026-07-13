@@ -6,18 +6,10 @@
        http://www.springframework.org/schema/beans
        https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- BookRepository Bean -->
     <bean id="bookRepository"
           class="com.library.repository.BookRepository"/>
 
-    <!-- BookService Bean -->
     <bean id="bookService"
-          class="com.library.service.BookService">
-
-        <!-- Dependency Injection -->
-        <property name="bookRepository"
-                  ref="bookRepository"/>
-
-    </bean>
+          class="com.library.service.BookService"/>
 
 </beans>

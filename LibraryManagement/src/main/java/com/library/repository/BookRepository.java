@@ -2,7 +2,7 @@ package com.library.repository;
 
 public class BookRepository {
 
-    public void displayBook() {
-        System.out.println("Book Repository: Book data retrieved successfully.");
+    public void display() {
+        System.out.println("Book Repository initialized");
     }
 }

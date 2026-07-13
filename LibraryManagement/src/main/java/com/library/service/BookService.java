@@ -1,18 +1,8 @@
 package com.library.service;
 
-import com.library.repository.BookRepository;
-
 public class BookService {
 
-    private BookRepository bookRepository;
-
-    // Setter Injection
-    public void setBookRepository(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
-    }
-
-    public void issueBook() {
-        System.out.println("Book Service: Issuing Book...");
-        bookRepository.displayBook();
+    public void display() {
+        System.out.println("Book Service initialized");
     }
 }

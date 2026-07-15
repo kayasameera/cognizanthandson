@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/country_web_service/pom.xml" />
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/Hello_World_Restful_Services/pom.xml" />
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/Country_based_on_country_code/pom.xml" />
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/Load_Country_XML_Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/Create_authentication_service_that_returns_JWT/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

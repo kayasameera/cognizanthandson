@@ -4,6 +4,12 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LibraryManagement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/Country_based_on_country_code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/Create_authentication_service_that_returns_JWT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/Hello_World_Restful_Services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/Load_Country_XML_Configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/country_web_service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-7_Spring_Rest_Using_Spring_Boot3/module-7_Spring_Rest_Using_Spring_Boot3/spring-learn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/orm-learn" vcs="Git" />
   </component>
 </project>
